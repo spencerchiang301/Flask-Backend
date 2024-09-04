@@ -1,1 +1,1 @@
-這不是一個完整的專案，只有一小部份的程式碼，主要用在展示我們在 Flask 專案的結構和寫法
+This is not a complete project, only a small part of the code, mainly used to show the structure and writing method of our Flask project
